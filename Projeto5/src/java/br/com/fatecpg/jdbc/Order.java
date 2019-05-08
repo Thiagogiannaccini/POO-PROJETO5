@@ -1,4 +1,4 @@
-package br.com.fategpg.jdbc;
+package br.com.fatecpg.jdbc;
 
 import java.sql.Connection;
 import java.sql.Date;

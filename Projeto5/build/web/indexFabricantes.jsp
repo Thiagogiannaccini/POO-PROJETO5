@@ -4,7 +4,7 @@
     Author     : thiag
 --%>
 
-<%@page import="br.com.fategpg.jdbc.Fabricantes"%>
+<%@page import="br.com.fatecpg.jdbc.Fabricantes"%>
 <%@page import="java.util.ArrayList"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

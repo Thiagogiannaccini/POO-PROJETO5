@@ -3,7 +3,7 @@
     Created on : 08/05/2019, 13:37:19
     Author     : vsreis
 --%>
-<%@page import="br.com.fategpg.jdbc.PurchaseOrder"%>
+<%@page import="br.com.fatecpg.jdbc.PurchaseOrder"%>
 <%@page import="java.util.ArrayList"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
