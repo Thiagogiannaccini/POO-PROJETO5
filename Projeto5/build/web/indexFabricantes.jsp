@@ -22,7 +22,7 @@
             <tr>
                 <th>ID</th>
                 <th>Nome</th>
-                <th>CIdade</th>
+                <th>Cidade</th>
                 <th>Estado</th>
                 <th>E-mail</th>
             </tr>

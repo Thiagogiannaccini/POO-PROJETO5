@@ -24,6 +24,7 @@
                 <th>Nome</th>
                 <th>E-mail</th>
                 <th>Detalhes</th>
+                <th>Lista de Compras</th>
             </tr>
             <% for(Customer c: list){ %>
             <tr>
@@ -31,7 +32,7 @@
                 <td><%=c.getName()%></td>
                 <td><%=c.getEmail()%></td>
                 <td><a href="details.jsp?id=<%=c.getId()%>">Ver detalhes</a></td>
-                <td>Ver lista de compras</td>
+                <td><a href="custumerOrderDetails.jsp?id=<%=c.getId()%>">Ver lista de compras</td>
             </tr>
             <%}%>
         </table>
