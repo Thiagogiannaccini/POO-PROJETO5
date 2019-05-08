@@ -31,6 +31,7 @@
                 <td><%=c.getName()%></td>
                 <td><%=c.getEmail()%></td>
                 <td><a href="details.jsp?id=<%=c.getId()%>">Ver detalhes</a></td>
+                <td>Ver lista de compras</td>
             </tr>
             <%}%>
         </table>
